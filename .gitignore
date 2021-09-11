@@ -11,3 +11,7 @@ web-build/
 
 # macOS
 .DS_Store
+/.idea/modules.xml
+/.idea/react-native-app-navigation.iml
+/.idea/vcs.xml
+/.idea/.gitignore
